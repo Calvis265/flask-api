@@ -12,10 +12,8 @@ JSON API responses
 
 Simple, clean project structure
 
-📁 Project Structure
-bash
-Copy
-Edit
+ Project Structure
+ 
 flask-superheroes/
 │
 ├── app.py                  # Main application entry point
@@ -92,6 +90,4 @@ Flask-SQLAlchemy
 
 SQLite (default with Python)
 
-🧑‍💻 Author
-Calvis Onyango – Passionate about software development and backend systems
-If you'd like to connect with me or contribute, feel free to reach out!
+ 
